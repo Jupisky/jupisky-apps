@@ -30,7 +30,7 @@
     "id": 11,
     "url": "https://app.1inch.io",
     "name": "1inch.exchange",
-    "iconUrl": "https://app.1inch.io/assets/images/1inch.svg",
+    "iconUrl": "https://app.1inch.io/assets/images/1inch.png",
     "description": "The most efficient defi aggregator",
     "chainIds": [1, 56, 137],
     "provider": { "url": "https://1inch.exchange", "name": "1inch corporation" }
