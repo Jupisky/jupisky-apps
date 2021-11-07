@@ -1,6 +1,6 @@
 [
   {
-    "id": 26,
+    "id": 1,
     "url": "https://curve.fi",
     "name": "Curve",
     "iconUrl": "https://curve.fi/logo-square.svg",
@@ -9,7 +9,7 @@
     "provider": null
   },
   {
-    "id": 26,
+    "id": 2,
     "url": "https://v4.pooltogether.com",
     "name": "PoolTogether v4",
     "iconUrl": "https://pooltogether.com/_next/static/images/pooltogether-wordmark--purple-gradient-bf8eaae574cdb58a1b648b495f7aaac1.svg",
@@ -18,7 +18,7 @@
     "provider": null
   },
   {
-    "id": 24,
+    "id": 3,
     "url": "https://cloudflare-ipfs.com/ipfs/QmdVaZxDov4bVARScTLErQSRQoxgqtBad8anWuw3YPQHCs",
     "name": "Transaction Builder",
     "iconUrl": "https://cloudflare-ipfs.com/ipfs/QmdVaZxDov4bVARScTLErQSRQoxgqtBad8anWuw3YPQHCs/tx-builder.png",
@@ -27,7 +27,7 @@
     "provider": null
   },
   {
-    "id": 1,
+    "id": 4,
     "url": "https://app.aave.com",
     "name": "Aave v2",
     "iconUrl": "https://app.aave.com/aave.svg",
@@ -36,7 +36,7 @@
     "provider": null
   },
   {
-    "id": 11,
+    "id": 5,
     "url": "https://app.1inch.io",
     "name": "1inch.exchange",
     "iconUrl": "https://app.1inch.io/assets/images/1inch.png",
@@ -45,7 +45,7 @@
     "provider": { "url": "https://1inch.exchange", "name": "1inch corporation" }
   },
   {
-    "id": 30,
+    "id": 6,
     "url": "https://paraswap.io",
     "name": "ParaSwap",
     "iconUrl": "https://paraswap.io/paraswap.svg",
@@ -54,7 +54,7 @@
     "provider": null
   },
   {
-    "id": 25,
+    "id": 7,
     "url": "https://apps.gnosis-safe.io/wallet-connect",
     "name": "WalletConnect",
     "iconUrl": "https://apps.gnosis-safe.io/wallet-connect/wallet-connect.svg",
