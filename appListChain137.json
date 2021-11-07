@@ -10,13 +10,13 @@
   },
   {
     "id": 2,
-    "url": "https://v4.pooltogether.com",
-    "name": "PoolTogether v4",
-    "iconUrl": "https://pooltogether.com/_next/static/images/pooltogether-wordmark--purple-gradient-bf8eaae574cdb58a1b648b495f7aaac1.svg",
-    "description": "PoolTogether is a crypto-powered savings protocol based on Premium Bonds. Save money and have a chance to win every week.",
-    "chainIds": [137],
+    "url": "https://apps.gnosis-safe.io/wallet-connect",
+    "name": "WalletConnect",
+    "iconUrl": "https://apps.gnosis-safe.io/wallet-connect/wallet-connect.svg",
+    "description": "Connect your Jupisky to any dApp that supports WalletConnect",
+    "chainIds": [1, 4, 56, 100, 137, 246, 73799, 42161],
     "provider": null
-  },
+  }
   {
     "id": 3,
     "url": "https://cloudflare-ipfs.com/ipfs/QmdVaZxDov4bVARScTLErQSRQoxgqtBad8anWuw3YPQHCs",
@@ -51,15 +51,6 @@
     "iconUrl": "https://paraswap.io/paraswap.svg",
     "description": "ParaSwap allows dApps and traders to get the best DEX liquidity by aggregating multiple markets and offering the best rates",
     "chainIds": [1, 56, 137],
-    "provider": null
-  },
-  {
-    "id": 7,
-    "url": "https://apps.gnosis-safe.io/wallet-connect",
-    "name": "WalletConnect",
-    "iconUrl": "https://apps.gnosis-safe.io/wallet-connect/wallet-connect.svg",
-    "description": "Connect your Jupisky to any dApp that supports WalletConnect",
-    "chainIds": [1, 4, 56, 100, 137, 246, 73799, 42161],
     "provider": null
   }
 ]
