@@ -45,47 +45,11 @@
     "provider": null
   },
   {
-    "id": 37,
-    "url": "https://gnosis-zodiac-app.netlify.app/",
-    "name": "Zodiac",
-    "iconUrl": "https://gnosis-zodiac-app.netlify.app/zodiac-app-logo.png",
-    "description": "The expansion pack for DAOs",
-    "chainIds": [1, 4, 100, 137],
-    "provider": null
-  },
-  {
-    "id": 38,
-    "url": "https://apy.plasma.finance/",
-    "name": "0xPlasma Finance",
-    "iconUrl": "https://apy.plasma.finance/logo.svg",
-    "description": "Cross-chain DeFi & DEX aggregator, farming, asset management, fiat on-ramp",
-    "chainIds": [1, 56, 137],
-    "provider": null
-  },
-  {
-    "id": 33,
-    "url": "https://cloudflare-ipfs.com/ipfs/QmdFyTuzHnzj6Z1pRRLqjWXEbH56TBNKo3M1an21zKWCXt",
-    "name": "CSV Airdrop",
-    "iconUrl": "https://cloudflare-ipfs.com/ipfs/QmdFyTuzHnzj6Z1pRRLqjWXEbH56TBNKo3M1an21zKWCXt/logo.svg",
-    "description": "Upload your CSV transfer file to send arbitrarily many tokens of various amounts to a list of recipients.",
-    "chainIds": [1, 4, 56, 100, 137],
-    "provider": null
-  },
-  {
-    "id": 39,
-    "url": "https://app.dodoex.io",
-    "name": "DODO",
-    "iconUrl": "https://app.dodoex.io/DODO.svg",
-    "description": "DODO - Your on-chain liquidity provider.",
-    "chainIds": [1, 4, 56, 137],
-    "provider": null
-  },
-  {
     "id": 25,
     "url": "https://apps.gnosis-safe.io/wallet-connect",
     "name": "WalletConnect",
     "iconUrl": "https://apps.gnosis-safe.io/wallet-connect/wallet-connect.svg",
-    "description": "Connect your Safe to any dApp that supports WalletConnect",
+    "description": "Connect your Jupisky to any dApp that supports WalletConnect",
     "chainIds": [1, 4, 56, 100, 137, 246, 73799, 42161],
     "provider": null
   }
