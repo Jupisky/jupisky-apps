@@ -16,7 +16,7 @@
     "description": "Connect your Jupisky to any dApp that supports WalletConnect",
     "chainIds": [1, 4, 56, 100, 137, 246, 73799, 42161],
     "provider": null
-  }
+  },
   {
     "id": 3,
     "url": "https://cloudflare-ipfs.com/ipfs/QmdVaZxDov4bVARScTLErQSRQoxgqtBad8anWuw3YPQHCs",
