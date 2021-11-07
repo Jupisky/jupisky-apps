@@ -9,6 +9,15 @@
     "provider": null
   },
   {
+    "id": 26,
+    "url": "https://v4.pooltogether.com",
+    "name": "PoolTogether v4",
+    "iconUrl": "https://pooltogether.com/_next/static/images/pooltogether-wordmark--purple-gradient-bf8eaae574cdb58a1b648b495f7aaac1.svg",
+    "description": "PoolTogether is a crypto-powered savings protocol based on Premium Bonds. Save money and have a chance to win every week.",
+    "chainIds": [137],
+    "provider": null
+  },
+  {
     "id": 24,
     "url": "https://cloudflare-ipfs.com/ipfs/QmdVaZxDov4bVARScTLErQSRQoxgqtBad8anWuw3YPQHCs",
     "name": "Transaction Builder",
