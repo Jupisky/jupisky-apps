@@ -43,14 +43,5 @@
     "description": "The most efficient defi aggregator",
     "chainIds": [1, 56, 137],
     "provider": { "url": "https://1inch.exchange", "name": "1inch corporation" }
-  },
-  {
-    "id": 6,
-    "url": "https://paraswap.io",
-    "name": "ParaSwap",
-    "iconUrl": "https://paraswap.io/paraswap.svg",
-    "description": "ParaSwap allows dApps and traders to get the best DEX liquidity by aggregating multiple markets and offering the best rates",
-    "chainIds": [1, 56, 137],
-    "provider": null
   }
 ]
